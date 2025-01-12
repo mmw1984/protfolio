@@ -42,5 +42,9 @@
 
 ### Method Three (GitHub Pages)
 1. Fork the repo
-2. Run
-3. DONE!
+2. Run GitHub Actions
+3. Done
+
+### Change font
+1. Upload font.ttf in \font folder
+2. Build New Docker Image/ Run GitHub Actions
